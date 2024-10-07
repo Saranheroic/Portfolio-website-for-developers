@@ -26,8 +26,8 @@ menuIcon.onclick = () => {
 }
 
 
-
-const scriptURL = 'https://script.google.com/macros/s/AKfycbxM6aFVdg1ARwgsIUrPDLe9L8V9R46gaNhf1F-G0Kz87LvRm6Nn9Ovd-xzNZ_6s-VA_/exec'
+//pls use your own const scriptURL for receive message on your google sheets.
+const scriptURL = ''
 const form = document.forms['submit-to-google-sheet']
   
 form.addEventListener('submit', e => {
