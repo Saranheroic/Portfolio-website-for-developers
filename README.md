@@ -1,7 +1,10 @@
-Developer Portfolio Website
+# Developer Portfolio Website:
+
+
 Welcome to my Developer Portfolio Website! This is a fully responsive, customizable portfolio template built using HTML, CSS, and JavaScript. Feel free to clone, fork, and modify it for your own personal use.
 
 🚀 Features
+
 Responsive design, suitable for all devices (desktop, tablet, mobile)
 Smooth scrolling and interactive animations
 Clean, modern UI
@@ -9,17 +12,24 @@ Simple and lightweight codebase for easy customization
 Contact form (functional with backend integration)
 
 🛠️ Tech Stack
+
 HTML - Structure of the website
 CSS - Styling the content with Flexbox, Grid, and media queries
 JavaScript - Interactivity and dynamic content
 
 📂 Project Structure
+
 .
-├── index.html        # Main HTML file
-├── style.css         # CSS file for styling
-├── script.js         # JavaScript file for interactivity
-├── assets/           # Folder for images, icons, etc.
-└── README.md         # Project documentation
+├── index.html 
+# Main HTML file
+├── style.css    
+# CSS file for styling
+├── script.js    
+# JavaScript file for interactivity
+├── assets/    
+# Folder for images, icons, etc.
+└── README.md 
+# Project documentation
 
 🌟 Getting Started
 To get a local copy up and running, follow these simple steps:
